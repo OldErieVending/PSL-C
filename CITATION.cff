@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this work if you use PSL-C in research or software."
+title: "PSL-C: Prompt Structure Language — Cinematic"
+authors:
+  - family-names: Bogart
+    given-names: Zach
+    affiliation: "PromptBuilder Research Lab"
+version: "1.0.0"
+doi: ""
+date-released: "2025-11-25"
+url: "https://github.com/OldErieVending/PSL-C"
